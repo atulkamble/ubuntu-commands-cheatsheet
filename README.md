@@ -130,5 +130,3 @@ gunzip file.txt.gz                 # Decompress file
 ```
 
 ---
-
-👉 Do you want me to prepare a **PDF cheat sheet** of Ubuntu commands (well-organized by category) so you can download and keep it handy?
